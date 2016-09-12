@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://reclaimwaste.xyz</id>
+  <title><![CDATA[ 서초철거 ]]></title>
+  <author>
+    <name>위그철거</name>
+  </author>
+
+  <updated>2016-09-12T18:45:38+09:00</updated>
+  <link rel="site" href="http://reclaimwaste.xyz" />
+
+  
+  <entry>
+    <id>http://reclaimwaste.xyz/#about</id>
+    <title><![CDATA[ 저희 서초철거 찾아주셔서 감사합니다^^ ]]></title>
+    <author>
+      <name>위그철거</name>
+    </author>
+    <updated>2016-09-12T18:45:38+09:00</updated>
+    <published>2016-09-12T18:45:38+09:00</published>
+    <link rel="via" href="http://reclaimwaste.xyz/#about" />
+    <content type="html"><![CDATA[  &lt;p&gt;저희 서초철거는 고객님께 만족을 드리는 기업이 되기 위해&lt;/p&gt;&lt;br&gt; &lt;p&gt;전직원이 힘쓰고 있으며 보다 확실한 업무처리와 안전을 위해 노력하고 있습니다.&lt;/p&gt;&lt;br&gt; &lt;p&gt;경험, 경력, 장비 모든 조건을 갖추고 있는 마포철거와 함께 처음부터 끝까지 오차없는 철거를 보여드리겠습니다.&lt;/p&gt;  ]]></content>
+  </entry>
+</feed>
